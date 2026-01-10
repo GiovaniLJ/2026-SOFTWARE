@@ -31,3 +31,9 @@ print(type(True)) #Tipo bool
 #Contador de letras -len()- Empleado 25 letras
 print(len(empleado))
 
+#Uso de imput
+nombre_usuario = input("Ingresa tu nombre: ")
+año_usuario = input("Ingresa tu año de nacimiento: ")
+print(f"Hola {nombre_usuario}, tu año de nacimiento es: {año_usuario}")
+
+

@@ -9,3 +9,4 @@ print("¡Primera meta del dia cumplida!")
 
 meta = "ingeniero de IA en Suiza"
 print(f"iniciando el camino hacia: {meta}")
+
